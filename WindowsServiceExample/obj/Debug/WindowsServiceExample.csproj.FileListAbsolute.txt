@@ -1,0 +1,9 @@
+C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe.config
+C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe
+C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.pdb
+C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\obj\Debug\WindowsServiceExample.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\obj\Debug\WindowsServiceExample.ProjectInstaller.resources
+C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\obj\Debug\WindowsServiceExample.csproj.GenerateResource.cache
+C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\obj\Debug\WindowsServiceExample.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\obj\Debug\WindowsServiceExample.exe
+C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\obj\Debug\WindowsServiceExample.pdb

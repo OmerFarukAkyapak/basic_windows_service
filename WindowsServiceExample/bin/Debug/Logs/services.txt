@@ -1,0 +1,2 @@
+C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\/Logs/services.txt
+C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\/Logs/services.txt

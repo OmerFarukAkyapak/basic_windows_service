@@ -1,0 +1,21 @@
+﻿'C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.InstallLog
+   assemblypath = C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.InstallLog
+   assemblypath = C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe
+'C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.InstallLog
+   assemblypath = C:\Users\faruk\source\repos\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe
+Service1 EventLog kaynağı kaldırılıyor.
+Service1 hizmeti sistemden kaldırılıyor...
+Service1 hizmeti sistemden başarıyla kaldırıldı.
